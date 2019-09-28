@@ -1,55 +1,10 @@
-#name {
-    background-color: #4aaaa5;
-    color: white;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    padding: 16px;
-}
+/* Nav Bar CSS */
 
-#navbarText {
-    color: #777777;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    float: right;
-}
+/* Container CSS */
 
-.navbarcontent {
-    margin-left: 460px;
-}
+/* footer CSS */
 
-.links {
-    margin-left:470px;
-}
-
-body {
-    background-image: url(../images/background.png); 
-    min-height: 100vh;
-    position: relative;
-}
-
-.container {
-    margin-top:70px;
-    border: 2px solid #dddddd;
-    Padding: 50px;
-    max-width: 960px;
-    background-color: white;
-    position: relative;
-}
-
-h3 {
-    color:#4aaaa5;
-    border-bottom: 2px solid #cccccc;
-    padding-bottom: 4px;
-}
-
-.photo {
-    float:left;
-    transform: rotate(90deg);
-    width: 25%;
-    height: 25%;
-    margin-bottom: 20px;
-}
-
-.footer {
-    height:15px;
+footer {
     width: 100%;
     padding-top: 20px;
     padding-bottom:10px;
@@ -60,9 +15,4 @@ h3 {
     text-align: center;
     position: absolute;
     bottom: 0;
-}
-
-.footer-block {
-    color: white;
-    margin:20px;
 }
