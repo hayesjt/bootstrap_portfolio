@@ -1,12 +1,30 @@
 /* Nav Bar CSS */
 
+.navbarcontent {
+    width:960px;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    margin-left: 100px;
+}
+
+.topname {
+    color:white;
+    padding: 10px;
+}
+
+.collapse {
+    float:right;
+}
+
 /* Container CSS */
 
 /* footer CSS */
 
 footer {
     width: 100%;
-    padding-top: 20px;
+    padding-top: 10px;
     padding-bottom:10px;
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
