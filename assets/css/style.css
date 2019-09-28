@@ -97,6 +97,10 @@ img {
 
 /* Contact Container CSS */
 
+.contactcss {
+    width:100%;
+}
+
 /* footer CSS */
 footer {
     width: 100%;
